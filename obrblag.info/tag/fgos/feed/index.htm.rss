@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ФГОС &#8211; Управление образования администрации города Благовещенска</title>
+	<atom:link href="http://obrblag.info/tag/fgos/feed/" rel="self" type="application/rss+xml" />
+	<link>http://obrblag.info</link>
+	<description>Портал образования города Благовещенска</description>
+	<lastBuildDate>Mon, 19 Sep 2022 01:44:41 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Презентация образовательных программ ДОО</title>
+		<link>http://obrblag.info/news/prezentatsiya-obrazovatel-ny-h-programm-doo/</link>
+		<pubDate>Sun, 14 Dec 2014 12:53:36 +0000</pubDate>
+		<dc:creator><![CDATA[Управление Образования]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[ДОО]]></category>
+		<category><![CDATA[ФГОС]]></category>
+
+		<guid isPermaLink="false">http://obrblag.info/?p=311</guid>
+		<description><![CDATA[11 декабря 2014 года  на базе МОАУ СОШ № 2 состоялась презентация образовательных  программ в соответствии  требований ФГОС ДО. На презентации были представлены...]]></description>
+		</item>
+	</channel>
+</rss>
