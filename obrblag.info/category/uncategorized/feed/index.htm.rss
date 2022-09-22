@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Без рубрики &#8211; Управление образования администрации города Благовещенска</title>
+	<atom:link href="http://obrblag.info/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://obrblag.info</link>
+	<description>Портал образования города Благовещенска</description>
+	<lastBuildDate>Mon, 19 Sep 2022 01:44:41 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Показатели</title>
+		<link>http://obrblag.info/uncategorized/pokazateli/</link>
+		<pubDate>Mon, 21 Dec 2015 03:41:20 +0000</pubDate>
+		<dc:creator><![CDATA[Управление Образования]]></dc:creator>
+				<category><![CDATA[Без рубрики]]></category>
+
+		<guid isPermaLink="false">http://obrblag.info/?p=1676</guid>
+		<description><![CDATA[[NEXForms id=&#8221;1&#8243; type=&#8221;undefined&#8221; open_trigger=&#8221;normal&#8221; text=&#8221;&#8221; ]]]></description>
+		</item>
+	</channel>
+</rss>
