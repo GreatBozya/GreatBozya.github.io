@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Комментарии: Основные мероприятия Года культурного наследия народов России</title>
+	<atom:link href="http://obrblag.info/news/osnovnye-meroprijatija-goda-kulturnogo-nasledija-narodov-rossii/feed/" rel="self" type="application/rss+xml" />
+	<link>http://obrblag.info/news/osnovnye-meroprijatija-goda-kulturnogo-nasledija-narodov-rossii/</link>
+	<description>Портал образования города Благовещенска</description>
+	<lastBuildDate>Wed, 11 May 2022 03:21:25 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Автор: Админ</title>
+		<link>http://obrblag.info/news/osnovnye-meroprijatija-goda-kulturnogo-nasledija-narodov-rossii/#comment-8602</link>
+		<dc:creator><![CDATA[Админ]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2022 00:46:59 +0000</pubDate>
+		<guid isPermaLink="false">http://obrblag.info/?p=10201#comment-8602</guid>
+		<description><![CDATA[Добрый день! приказы об итогах данного конкурса направлены в учреждения.]]></description>
+		<content:encoded><![CDATA[<p>Добрый день! приказы об итогах данного конкурса направлены в учреждения.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Автор: Аноним</title>
+		<link>http://obrblag.info/news/osnovnye-meroprijatija-goda-kulturnogo-nasledija-narodov-rossii/#comment-8568</link>
+		<dc:creator><![CDATA[Аноним]]></dc:creator>
+		<pubDate>Mon, 28 Feb 2022 00:49:46 +0000</pubDate>
+		<guid isPermaLink="false">http://obrblag.info/?p=10201#comment-8568</guid>
+		<description><![CDATA[Можно узнать результаты конкурса поздравительных открыток ко Дню защитника Отечества]]></description>
+		<content:encoded><![CDATA[<p>Можно узнать результаты конкурса поздравительных открыток ко Дню защитника Отечества</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
